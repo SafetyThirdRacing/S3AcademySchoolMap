@@ -1,7 +1,5 @@
 S3 Racing Academy Scholastic League School Map
 #
-S3 Racing Academy Scholastic League School Map
-
 To be added to the map please contact Safety Third
 #
 This is a modified version of a [@kernelsndrs](https://github.com/kernelsndrs/FPVC_map) joint.
